@@ -1,5 +1,7 @@
 ## About me
 
+Note: Currently learning Git so I can upload useful code I've written over the last 14 years. --Chris, 04DEC2024
+
 Oh, what do I say about me? Well, I’m a Navy Veteran, a nuclear physicist, a father and husband, and I fought a sea lion once. I like writing: code, novels, music…you name it. I helped found a non-profit that works with veterans to help them find satisfying work. Check out the Veteran Mentor Outreach Program at https://vetmentornetworkcom.wordpress.com/
 
 - 🕘-🕔 Currently looking for work.
