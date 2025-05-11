@@ -3,7 +3,7 @@
 Oh, what do I say about me? Well, I’m a data scientist, trained experimental physicist (got me a piece of paper that says doctor and everything), Navy Veteran (submarines ONCE, submarines TWICE...), a father and husband, and I fought a sea lion once. Like, an actual sea lion (he started it). I like writing: code, novels, music…you name it. I miss seeing the Olympic mountains in the background and am currently satiating myself with views of the Shenendoahs. I don't care for sports, but will always root for the Vols because their fans are awesome (and I want those folks to be happy).
 
 - 🕘-🕔 Currently looking for work.
-- 📓 PhD thesis: "Exploring the Neutron Substructure with Advanced Polarized Helium-3 Targets (Or: How I Learned to Stop Worrying and Love Spectroscopy)"
+- 📓 PhD thesis: "Exploring the Neutron Substructure with Advanced Polarized Helium-3 Targets (Or: How I Learned to Stop Worrying and Love Spectroscopy)" can be found [here](https://doi.org/10.18130/p44g-5b82).
 - 🌭 Favorite food: hot dog with all the fixings (cream cheese on a toasted bun, dill relish, ketchup, and either spicy brown mustard or Dijon)
 - 🎼 I write music and play the guitar and drums.
 - 📖 Currently working on a novel about a grief-stricken engineer who's unsure if the demigod that's tormenting her is real or if she's losing her mind.
